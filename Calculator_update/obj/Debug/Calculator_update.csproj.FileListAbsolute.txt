@@ -1,0 +1,15 @@
+D:\C#\C# UI\Calculator_update\Calculator_update\bin\Debug\Calculator_update.exe.config
+D:\C#\C# UI\Calculator_update\Calculator_update\bin\Debug\Calculator_update.exe
+D:\C#\C# UI\Calculator_update\Calculator_update\bin\Debug\Calculator_update.pdb
+D:\C#\C# UI\Calculator_update\Calculator_update\obj\Debug\Calculator_update.csproj.AssemblyReference.cache
+D:\C#\C# UI\Calculator_update\Calculator_update\obj\Debug\MainWindow.g.cs
+D:\C#\C# UI\Calculator_update\Calculator_update\obj\Debug\App.g.cs
+D:\C#\C# UI\Calculator_update\Calculator_update\obj\Debug\Calculator_update_MarkupCompile.cache
+D:\C#\C# UI\Calculator_update\Calculator_update\obj\Debug\Calculator_update_MarkupCompile.lref
+D:\C#\C# UI\Calculator_update\Calculator_update\obj\Debug\MainWindow.baml
+D:\C#\C# UI\Calculator_update\Calculator_update\obj\Debug\Calculator_update.g.resources
+D:\C#\C# UI\Calculator_update\Calculator_update\obj\Debug\Calculator_update.Properties.Resources.resources
+D:\C#\C# UI\Calculator_update\Calculator_update\obj\Debug\Calculator_update.csproj.GenerateResource.cache
+D:\C#\C# UI\Calculator_update\Calculator_update\obj\Debug\Calculator_update.csproj.CoreCompileInputs.cache
+D:\C#\C# UI\Calculator_update\Calculator_update\obj\Debug\Calculator_update.exe
+D:\C#\C# UI\Calculator_update\Calculator_update\obj\Debug\Calculator_update.pdb
